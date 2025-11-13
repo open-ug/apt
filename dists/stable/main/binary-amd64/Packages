@@ -1,0 +1,18 @@
+Package: conveyor
+Version: 0.3.8-1
+Architecture: amd64
+Maintainer: Beingana Jim Junior <jimjunior854@gmail.com>
+Installed-Size: 49854
+Filename: pool/main/conveyor/conveyor_0.3.8-1_amd64.deb
+Size: 13893930
+MD5sum: d020247d63d53824186dbd3f3f061cb4
+SHA1: ce3f48d1fd07539080c95e2b4afd1d170ff5e30c
+SHA256: 4cdfcf62cad7a49d8273d72c3731b2acead61bce2c116324726f5f192e91ae60
+Section: utils
+Priority: optional
+Homepage: https://conveyor.open.ug
+Description: Lightweight CI/CD engine for custom distributed workflows
+  Conveyor is a lightweight engine for developing custom distributed
+  CI/CD platforms. It simplifies development, deployment, and orchestration
+  of container-based build systems.
+
