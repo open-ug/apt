@@ -1,13 +1,13 @@
 Package: conveyor
-Version: 0.3.8-1
+Version: 0.4.0-1
 Architecture: amd64
 Maintainer: Beingana Jim Junior <jimjunior854@gmail.com>
-Installed-Size: 49854
-Filename: pool/main/conveyor/conveyor_0.3.8-1_amd64.deb
-Size: 13893930
-MD5sum: d020247d63d53824186dbd3f3f061cb4
-SHA1: ce3f48d1fd07539080c95e2b4afd1d170ff5e30c
-SHA256: 4cdfcf62cad7a49d8273d72c3731b2acead61bce2c116324726f5f192e91ae60
+Installed-Size: 50851
+Filename: pool/main/conveyor/conveyor_0.4.0-1_amd64.deb
+Size: 14116660
+MD5sum: 51151442a0ef30916c9cf2612e386697
+SHA1: 52531e24f911694600a6eee21fca8555bb30cd89
+SHA256: 7e045ae081ac06f98c57873b16a120811dc9da1011012c250f98eb993ad23e17
 Section: utils
 Priority: optional
 Homepage: https://conveyor.open.ug
